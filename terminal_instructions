@@ -2,3 +2,9 @@ ctrl-c = cancel program
 ctrl-l = clears screen
 cd = change directory
 ls = list files witin folder
+
+###
+To run script:
+  make <filename>
+  ./<filename>
+###
