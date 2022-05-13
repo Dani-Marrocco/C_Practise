@@ -2,6 +2,7 @@ ctrl-c = cancel program
 ctrl-l = clears screen
 cd = change directory
 ls = list files witin folder
+cd .. = goes to the next step up when looking for files (folder to parent folder)
 
 ###
 To run script:
