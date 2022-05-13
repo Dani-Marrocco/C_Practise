@@ -1,0 +1,5 @@
+
+int = 4 bites. Placeholder = i
+char = 1 bite. placeholder = c
+char* = pointer variable, pointing to first bite of the string. placeholder = s (string)
+string is the same as char* (MAY ONLY BE IN C)
